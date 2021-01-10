@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fergus-Molloy&show_icons=true&count_private=true&hide_title=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fergus-Molloy&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&hide=stars&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fergus-Molloy&layout=compact&hide=vim%20script" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fergus-Molloy&layout=compact&hide=vim%20script&theme=radical" />
 </a>
 <!--
 **Fergus-Molloy/Fergus-Molloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
