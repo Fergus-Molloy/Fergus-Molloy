@@ -2,7 +2,7 @@
 My name is Fergus and I’m currently a Computer Science student at University of York.
 
 # Skills and Tech 🧑‍💻
-<img https://img.shields.io/static/v1?label=OS&message=Linux&color=#79ff96/>
+<img src="https://img.shields.io/static/v1?label=OS&message=Linux&color=#79ff96"/>
 
 # Stats 📊
 <table>
