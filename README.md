@@ -1,20 +1,25 @@
-### Hi there 👋
+# Hi there 👋
+My name is Fergus and I’m currently a Computer Science student at University of York.
 
+# Skills and Tech 🧑‍💻
+<img https://img.shields.io/static/v1?label=OS&message=Linux&color=#79ff96/>
+
+# Stats 📊
+<table>
+<tr>
+<td>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fergus-Molloy&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&hide=stars&theme=dark" />
 </a>
+</td>
+<td>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fergus-Molloy&layout=compact&hide=vim%20script&theme=dark" />
 </a>
+</td>
+</tr>
+</table>
 <!--
-**Fergus-Molloy/Fergus-Molloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
