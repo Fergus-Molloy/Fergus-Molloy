@@ -2,7 +2,7 @@
 My name is Fergus and I’m currently an Associate Software Engineer at CloudTrade.
 
 # Skills and Tech 🧑‍💻
-<img src="https://img.shields.io/static/v1?label=OS&message=Linux&color=79ff96"/> <img src="https://img.shields.io/static/v1?label=Editor&message=vim&color=79ff96"/>  <img src="https://img.shields.io/static/v1?label=Language&message=C#&color=79ff96"/> <img src="https://img.shields.io/static/v1?label=Language&message=Rust&color=79ff96"/> <img src="https://img.shields.io/static/v1?label=Language&message=Javascript&color=79ff96"/> <img src="https://img.shields.io/static/v1?label=Tool&message=Git&color=79ff96"/>
+<img src="https://img.shields.io/static/v1?label=OS&message=Linux&color=79ff96"/> <img src="https://img.shields.io/static/v1?label=Editor&message=vim&color=79ff96"/>  <img src="https://img.shields.io/static/v1?label=Language&message=.NET&color=79ff96"/> <img src="https://img.shields.io/static/v1?label=Language&message=Rust&color=79ff96"/> <img src="https://img.shields.io/static/v1?label=Language&message=Javascript&color=79ff96"/> <img src="https://img.shields.io/static/v1?label=Tool&message=Git&color=79ff96"/>
 
 # Stats 📊
 <table>
