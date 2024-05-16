@@ -8,7 +8,7 @@ My name is Fergus and I’m currently an Associate Software Engineer at CloudTra
 <table>
 <tr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fergus-molloy&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&hide=stars&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fergus-molloy&show_icons=true&count_private=true&hide_title=true&hide=stars&theme=dark" />
   
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
